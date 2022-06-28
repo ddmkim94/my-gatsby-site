@@ -1,15 +1,13 @@
 import React from 'react';
-import Head from '../components/Head';
+import Layout from '../components/Layout';
 
 function AboutPage() {
   return (
-    <main>
-      <title>About Page</title>
-
-      <Head />
-
-      <h1>About Page</h1>
-    </main>
+    <Layout pageTitle="About Me">
+      <p>
+        Hi there! I'm the proud creator of this site, which I built with Gatsby.
+      </p>
+    </Layout>
   );
 }
 
