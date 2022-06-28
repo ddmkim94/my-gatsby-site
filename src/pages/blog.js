@@ -1,6 +1,6 @@
 import { graphql, useStaticQuery } from 'gatsby';
 import React from 'react';
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 
 function BlogPage() {
   const data = useStaticQuery(graphql`
