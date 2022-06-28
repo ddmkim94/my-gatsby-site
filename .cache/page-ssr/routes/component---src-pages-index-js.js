@@ -4752,7 +4752,7 @@ module.exports = [];
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"My First Gatsby Site","description":null}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"김동민의 개발 블로그","description":null}}}}');
 
 /***/ })
 
