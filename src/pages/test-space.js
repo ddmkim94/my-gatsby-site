@@ -4,9 +4,11 @@ import Head from '../components/Head';
 function TestSpacePage() {
   return (
     <main>
-      <title>테스트 스페이스</title>
+      <title>Test Space Page</title>
+
       <Head />
-      <h1>테스트 스페이스 페이지 입니다.</h1>
+
+      <h1>Test Space Page</h1>
     </main>
   );
 }

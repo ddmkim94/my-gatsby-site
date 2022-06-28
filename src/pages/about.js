@@ -4,11 +4,11 @@ import Head from '../components/Head';
 function AboutPage() {
   return (
     <main>
-      <title>자기소개</title>
+      <title>About Page</title>
 
       <Head />
 
-      <h1>자기소개 페이지 입니다.</h1>
+      <h1>About Page</h1>
     </main>
   );
 }
